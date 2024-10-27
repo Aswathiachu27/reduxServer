@@ -1,0 +1,16 @@
+{
+  "create": [
+    {
+      "name": "lipstic",
+      "category": "cosmetics",
+      "price": "1000",
+      "id": 2
+    },
+    {
+      "name": "foundation",
+      "category": "cosmetics",
+      "price": "3000",
+      "id": 3
+    }
+  ]
+}
